@@ -1,2 +1,2 @@
-/Users/zhiqinlu/GitHub/PreText/Euclidean_Geometry_Book/source/dmoi.ptx:4:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element include there
-/Users/zhiqinlu/GitHub/PreText/Euclidean_Geometry_Book/source/dmoi.ptx:4:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element pretext has extra content: include
+/Users/zhiqinlu/GitHub/Euclidean_Geometry_Book/source/dmoi.ptx:4:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element include there
+/Users/zhiqinlu/GitHub/Euclidean_Geometry_Book/source/dmoi.ptx:4:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element pretext has extra content: include

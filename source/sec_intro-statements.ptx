@@ -1366,10 +1366,22 @@
       Similarly, we will often be a bit sloppy about the distinction between a predicate and a statement.  For example, we might write, <em>let <m>P(n)</m> be the <em>statement</em>, <q><m>n</m> is prime,</q></em> which is technically incorrect.  It is implicit that we mean that we are defining <m>P(n)</m> to be a predicate, which for each <m>n</m> becomes the statement, <m>n</m> is prime.
     </p>
   </paragraphs>  
+
+
+<example  >
+      <statement>
+        <p  >
+         Solve  the linear system
+         <me> \begin{matrix}
+x_1\amp -\amp 2x_2\amp +\amp x_3\amp=\amp 0
+\end{matrix}</me>
+        </p>
+      </statement>
+    </example>
     
   </subsection>
-<!-- <xi:include href="practice/intro-statements.ptx"/> -->
-  <xi:include href="exercises/intro-statements.ptx"/>
+
+
 <!-- <conclusion>
   <title>Projects</title>
 
@@ -1451,5 +1463,14 @@
   </project>
 
 </conclusion> -->
+
+
+
+
+We copy the linear system below, with the right side the corresponding augmented matrix.
+
+
+
+
 </section>
 
